@@ -19,7 +19,6 @@ Tables are used to store data in rows and columns. The `CREATE TABLE` statement 
 Data types specify the kind of data that can be stored in a column, such as integers, text, dates, or timestamps.
 
 Constraints are rules applied to columns to maintain data integrity, including:
-
 * **PRIMARY KEY** – Uniquely identifies each record.
 * **AUTO_INCREMENT** – Automatically generates sequential values.
 * **NOT NULL** – Prevents empty values.
@@ -39,18 +38,15 @@ The `RENAME TABLE` statement changes the name of an existing table without affec
 The `ALTER TABLE` statement is used to modify the structure of an existing table.
 
 Common operations include:
-
 * Adding new columns
 * Removing existing columns
 * Modifying column data types
 * Reordering columns
 
 ## Inserting Data
-
 The `INSERT INTO` statement adds new records to a table. Data can be inserted by specifying all columns or only selected columns.
 
 ## Dropping a Database
-
 The `DROP DATABASE` statement permanently removes a database along with all its tables and data. This operation should be used carefully because the deleted data cannot be recovered.
 
 ## Summary
