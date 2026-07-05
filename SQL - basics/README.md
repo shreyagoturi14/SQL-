@@ -49,7 +49,30 @@ The `INSERT INTO` statement adds new records to a table. Data can be inserted by
 ## Dropping a Database
 The `DROP DATABASE` statement permanently removes a database along with all its tables and data. This operation should be used carefully because the deleted data cannot be recovered.
 
-## Summary
 
-This practical exercise demonstrates the core SQL operations required to create databases, design tables, manage table structures, insert records, and retrieve data. These concepts form the foundation for advanced SQL topics and real-world database management.
 
+# SQL Basics - UPDATE & DELETE
+Today I practiced SQL data modification commands using MySQL.
+
+## Topics Covered
+
+- UPDATE statement
+- Updating single column values
+- Updating multiple columns
+- Using WHERE clause with UPDATE
+- Incrementing numeric values
+- DELETE statement
+- Deleting specific records
+- Safe Update Mode in MySQL Workbench
+- Common SQL errors and debugging
+
+## Key Learnings
+Always use the WHERE clause while updating or deleting data.
+USE database_name; sets the active database.
+Safe Update Mode may block UPDATE and DELETE queries.
+Table names must match exactly.
+Verify changes using SELECT queries.
+
+## Tools Used
+MySQL Workbench
+MySQL Server
