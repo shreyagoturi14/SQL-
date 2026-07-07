@@ -63,7 +63,4 @@ Used to sort the final combined result set after applying UNION or UNION ALL ope
 * Customer Relationship Management (CRM)
 * Real-World Relational Database Design
 
----
-
-**Author:** Shreya G
-
+----- 
