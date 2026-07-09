@@ -90,5 +90,3 @@ Through these exercises, I learned:
 * How transactions ensure reliable and controlled database operations using COMMIT and ROLLBACK
 
 ---
-
-**Author:** Shreya G
