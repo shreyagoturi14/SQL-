@@ -50,7 +50,6 @@ A collection of SQL concepts and hands-on exercises focused on building strong d
 * IF()
 
 ### Problem Solving
-
 * LeetCode SQL Solutions
 * Query-Based Practice Exercises
 
