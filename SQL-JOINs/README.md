@@ -2,7 +2,6 @@
 This module focuses on combining and analyzing data across multiple tables using SQL JOINs, SELF JOINs, and UNION operations. These concepts are fundamental for relational database management and are widely used in Data Analytics, Data Science, and Backend Development.
 
 ## Topics Covered
-
 ### INNER JOIN
 Retrieves only the matching records from both tables based on a specified condition.
 
