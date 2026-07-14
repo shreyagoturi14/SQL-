@@ -18,5 +18,3 @@ SELECT  email,name, date_of_birth, 'USER'as role FROM users
 UNION
 SELECT email,name,date_of_birth, 'Admin' as role FROM admin_users
 ORDER BY date_of_birth;
-
-
