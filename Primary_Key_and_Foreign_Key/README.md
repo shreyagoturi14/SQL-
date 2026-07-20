@@ -88,5 +88,3 @@ Through these exercises, I learned:
 * How `ON DELETE CASCADE` maintains referential integrity
 * How to add and remove Foreign Key constraints
 * How transactions ensure reliable and controlled database operations using COMMIT and ROLLBACK
-
----
