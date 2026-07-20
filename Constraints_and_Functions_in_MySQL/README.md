@@ -55,5 +55,3 @@ A collection of SQL concepts and hands-on exercises focused on building strong d
 
 ## Purpose
 This repository documents my SQL learning journey through practical examples, database operations, constraints, built-in functions, and problem-solving exercises. The goal is to develop strong SQL skills for Data Analytics, Data Science, and technical knowledge.
-
----
