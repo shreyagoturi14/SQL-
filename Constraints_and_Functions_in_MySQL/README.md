@@ -22,7 +22,6 @@ A collection of SQL concepts and hands-on exercises focused on building strong d
 * DEFAULT
 
 ### SQL Functions
-
 #### Aggregate Functions
 * COUNT()
 * MIN()
