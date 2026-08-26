@@ -1,5 +1,4 @@
 # SQL-Practice
-
 A structured collection of hands-on SQL practice covering database fundamentals, data manipulation, constraints, functions, table relationships, and analytical queries.
 
 ## Topics Covered
