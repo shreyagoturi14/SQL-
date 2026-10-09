@@ -37,7 +37,7 @@ A structured collection of hands-on SQL practice covering database fundamentals,
 * UNION
 * UNION ALL
 
-### 🧩 Problem Solving
+### Problem Solving
 
 * LeetCode SQL 50
 * Practical SQL Queries
